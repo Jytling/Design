@@ -1,0 +1,17 @@
+a.button {
+  display: inline-block;
+  background: #008000;
+  color: #000000;
+  padding: 20px;
+  border-radius: 60px;
+  text-decoration: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+}
+
+div {
+  margin: 20px;
+  text-align: center;
+}
